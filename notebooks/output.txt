@@ -1,0 +1,288 @@
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = None , specified_biases = [1, 1] , learning_rate = 0.25
+Average loss per epoch: 1.8009990989804938
+Accuracy: 0.3991
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = None , specified_biases = [1, 0] , learning_rate = 0.25
+Average loss per epoch: 1.7020793613395613
+Accuracy: 0.4381
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = None , specified_biases = [0, 1] , learning_rate = 0.25
+Average loss per epoch: 1.748022016848056
+Accuracy: 0.2606
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = None , specified_biases = [0, 0] , learning_rate = 0.25
+Average loss per epoch: 1.8402894678415336
+Accuracy: 0.2147
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_1'] , specified_biases = [1, 1] , learning_rate = 0.25
+Average loss per epoch: 1.7469486676147679
+Accuracy: 0.3094
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_1'] , specified_biases = [1, 0] , learning_rate = 0.25
+Average loss per epoch: 1.632894352125028
+Accuracy: 0.411
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_1'] , specified_biases = [0, 1] , learning_rate = 0.25
+Average loss per epoch: 1.6441378886929823
+Accuracy: 0.441
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_1'] , specified_biases = [0, 0] , learning_rate = 0.25
+Average loss per epoch: 1.611397136497238
+Accuracy: 0.5156
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_2'] , specified_biases = [1, 1] , learning_rate = 0.25
+Average loss per epoch: 1.7095210095942406
+Accuracy: 0.3585
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_2'] , specified_biases = [1, 0] , learning_rate = 0.25
+Average loss per epoch: 1.7326529130931458
+Accuracy: 0.2336
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_2'] , specified_biases = [0, 1] , learning_rate = 0.25
+Average loss per epoch: 1.698144478779675
+Accuracy: 0.3338
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_2'] , specified_biases = [0, 0] , learning_rate = 0.25
+Average loss per epoch: 1.5416287394956452
+Accuracy: 0.2136
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_1', 'hidden_2'] , specified_biases = [1, 1] , learning_rate = 0.25
+Average loss per epoch: 1.7615438844776794
+Accuracy: 0.2632
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_1', 'hidden_2'] , specified_biases = [1, 0] , learning_rate = 0.25
+Average loss per epoch: 1.685826802325409
+Accuracy: 0.2087
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_1', 'hidden_2'] , specified_biases = [0, 1] , learning_rate = 0.25
+Average loss per epoch: 1.7260467817057858
+Accuracy: 0.368
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_1', 'hidden_2'] , specified_biases = [0, 0] , learning_rate = 0.25
+Average loss per epoch: 1.6177981520248057
+Accuracy: 0.169
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = None , specified_biases = [1, 1] , learning_rate = 0.5
+Average loss per epoch: 2.301635998472271
+Accuracy: 0.101
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = None , specified_biases = [1, 0] , learning_rate = 0.5
+Average loss per epoch: 2.3008032130314455
+Accuracy: 0.1028
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = None , specified_biases = [0, 1] , learning_rate = 0.5
+Average loss per epoch: 2.2654822793194107
+Accuracy: 0.2122
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = None , specified_biases = [0, 0] , learning_rate = 0.5
+Average loss per epoch: 2.300528659281726
+Accuracy: 0.101
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_1'] , specified_biases = [1, 1] , learning_rate = 0.5
+Average loss per epoch: 2.3020640932056664
+Accuracy: 0.1009
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_1'] , specified_biases = [1, 0] , learning_rate = 0.5
+Average loss per epoch: 2.2881120498116077
+Accuracy: 0.101
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_1'] , specified_biases = [0, 1] , learning_rate = 0.5
+Average loss per epoch: 2.3002633906792336
+Accuracy: 0.1028
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_1'] , specified_biases = [0, 0] , learning_rate = 0.5
+Average loss per epoch: 2.297569184981897
+Accuracy: 0.101
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_2'] , specified_biases = [1, 1] , learning_rate = 0.5
+Average loss per epoch: 2.2128226860262528
+Accuracy: 0.2106
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_2'] , specified_biases = [1, 0] , learning_rate = 0.5
+Average loss per epoch: 2.301666192032483
+Accuracy: 0.0958
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_2'] , specified_biases = [0, 1] , learning_rate = 0.5
+Average loss per epoch: 2.3024125556637767
+Accuracy: 0.101
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_2'] , specified_biases = [0, 0] , learning_rate = 0.5
+Average loss per epoch: 2.127442512358183
+Accuracy: 0.2116
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_1', 'hidden_2'] , specified_biases = [1, 1] , learning_rate = 0.5
+Average loss per epoch: 2.3023851428893964
+Accuracy: 0.101
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_1', 'hidden_2'] , specified_biases = [1, 0] , learning_rate = 0.5
+Average loss per epoch: 2.28042201666584
+Accuracy: 0.1032
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_1', 'hidden_2'] , specified_biases = [0, 1] , learning_rate = 0.5
+Average loss per epoch: 2.3023533633890487
+Accuracy: 0.1242
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_1', 'hidden_2'] , specified_biases = [0, 0] , learning_rate = 0.5
+Average loss per epoch: 2.2979614978797382
+Accuracy: 0.0974
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = None , specified_biases = [1, 1] , learning_rate = 0.75
+Average loss per epoch: 2.3024116842612234
+Accuracy: 0.1028
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = None , specified_biases = [1, 0] , learning_rate = 0.75
+Average loss per epoch: 2.3022768721508755
+Accuracy: 0.101
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = None , specified_biases = [0, 1] , learning_rate = 0.75
+Average loss per epoch: 2.30298858618537
+Accuracy: 0.1028
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = None , specified_biases = [0, 0] , learning_rate = 0.75
+Average loss per epoch: 2.302823346911889
+Accuracy: 0.101
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_1'] , specified_biases = [1, 1] , learning_rate = 0.75
+Average loss per epoch: 2.3025045296718747
+Accuracy: 0.101
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_1'] , specified_biases = [1, 0] , learning_rate = 0.75
+Average loss per epoch: 2.3024480119825577
+Accuracy: 0.1009
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_1'] , specified_biases = [0, 1] , learning_rate = 0.75
+Average loss per epoch: 2.303229518461743
+Accuracy: 0.0982
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_1'] , specified_biases = [0, 0] , learning_rate = 0.75
+Average loss per epoch: 2.3023768544182217
+Accuracy: 0.1048
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_2'] , specified_biases = [1, 1] , learning_rate = 0.75
+Average loss per epoch: 2.3031849261953554
+Accuracy: 0.1032
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_2'] , specified_biases = [1, 0] , learning_rate = 0.75
+Average loss per epoch: 2.3031970138505895
+Accuracy: 0.101
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_2'] , specified_biases = [0, 1] , learning_rate = 0.75
+Average loss per epoch: 2.303004566630634
+Accuracy: 0.101
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_2'] , specified_biases = [0, 0] , learning_rate = 0.75
+Average loss per epoch: 2.3029972494495325
+Accuracy: 0.0982
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_1', 'hidden_2'] , specified_biases = [1, 1] , learning_rate = 0.75
+Average loss per epoch: 2.3031141512135265
+Accuracy: 0.1032
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_1', 'hidden_2'] , specified_biases = [1, 0] , learning_rate = 0.75
+Average loss per epoch: 2.302997776268904
+Accuracy: 0.0982
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_1', 'hidden_2'] , specified_biases = [0, 1] , learning_rate = 0.75
+Average loss per epoch: 2.302940599179594
+Accuracy: 0.1951
+Model Parameters: hidden_1_output_size = 256 , hidden_2_output_size = 128 , specified_weights = ['hidden_1', 'hidden_2'] , specified_biases = [0, 0] , learning_rate = 0.75
+Average loss per epoch: 2.30304013841806
+Accuracy: 0.101
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = None , specified_biases = [1, 1] , learning_rate = 0.25
+Average loss per epoch: 2.054416436647986
+Accuracy: 0.2316
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = None , specified_biases = [1, 0] , learning_rate = 0.25
+Average loss per epoch: 1.9619542558627068
+Accuracy: 0.2955
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = None , specified_biases = [0, 1] , learning_rate = 0.25
+Average loss per epoch: 2.1261420125755244
+Accuracy: 0.2616
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = None , specified_biases = [0, 0] , learning_rate = 0.25
+Average loss per epoch: 2.1703532921348536
+Accuracy: 0.1036
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_1'] , specified_biases = [1, 1] , learning_rate = 0.25
+Average loss per epoch: 2.093805958497263
+Accuracy: 0.2932
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_1'] , specified_biases = [1, 0] , learning_rate = 0.25
+Average loss per epoch: 2.04424989219352
+Accuracy: 0.2681
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_1'] , specified_biases = [0, 1] , learning_rate = 0.25
+Average loss per epoch: 1.9918700654655233
+Accuracy: 0.3983
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_1'] , specified_biases = [0, 0] , learning_rate = 0.25
+Average loss per epoch: 2.0325624554444404
+Accuracy: 0.3038
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_2'] , specified_biases = [1, 1] , learning_rate = 0.25
+Average loss per epoch: 2.03383922900657
+Accuracy: 0.3038
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_2'] , specified_biases = [1, 0] , learning_rate = 0.25
+Average loss per epoch: 1.950009913517757
+Accuracy: 0.2004
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_2'] , specified_biases = [0, 1] , learning_rate = 0.25
+Average loss per epoch: 2.0563545079906853
+Accuracy: 0.3086
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_2'] , specified_biases = [0, 0] , learning_rate = 0.25
+Average loss per epoch: 2.056148296647867
+Accuracy: 0.2309
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_1', 'hidden_2'] , specified_biases = [1, 1] , learning_rate = 0.25
+Average loss per epoch: 1.9942410591149298
+Accuracy: 0.2937
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_1', 'hidden_2'] , specified_biases = [1, 0] , learning_rate = 0.25
+Average loss per epoch: 1.952553970238684
+Accuracy: 0.2993
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_1', 'hidden_2'] , specified_biases = [0, 1] , learning_rate = 0.25
+Average loss per epoch: 2.084272336119642
+Accuracy: 0.2121
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_1', 'hidden_2'] , specified_biases = [0, 0] , learning_rate = 0.25
+Average loss per epoch: 2.037869215251885
+Accuracy: 0.3918
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = None , specified_biases = [1, 1] , learning_rate = 0.5
+Average loss per epoch: 2.3030005998503076
+Accuracy: 0.1009
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = None , specified_biases = [1, 0] , learning_rate = 0.5
+Average loss per epoch: 2.302051392014954
+Accuracy: 0.1028
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = None , specified_biases = [0, 1] , learning_rate = 0.5
+Average loss per epoch: 2.3025586058778194
+Accuracy: 0.1009
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = None , specified_biases = [0, 0] , learning_rate = 0.5
+Average loss per epoch: 2.302642225575721
+Accuracy: 0.101
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_1'] , specified_biases = [1, 1] , learning_rate = 0.5
+Average loss per epoch: 2.302800860269889
+Accuracy: 0.101
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_1'] , specified_biases = [1, 0] , learning_rate = 0.5
+Average loss per epoch: 2.302824011793278
+Accuracy: 0.101
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_1'] , specified_biases = [0, 1] , learning_rate = 0.5
+Average loss per epoch: 2.302923635373613
+Accuracy: 0.102
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_1'] , specified_biases = [0, 0] , learning_rate = 0.5
+Average loss per epoch: 2.3029781472272175
+Accuracy: 0.1009
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_2'] , specified_biases = [1, 1] , learning_rate = 0.5
+Average loss per epoch: 2.303381216533887
+Accuracy: 0.1028
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_2'] , specified_biases = [1, 0] , learning_rate = 0.5
+Average loss per epoch: 2.30262943690539
+Accuracy: 0.1679
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_2'] , specified_biases = [0, 1] , learning_rate = 0.5
+Average loss per epoch: 2.302936695724229
+Accuracy: 0.098
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_2'] , specified_biases = [0, 0] , learning_rate = 0.5
+Average loss per epoch: 2.3028700163762847
+Accuracy: 0.1009
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_1', 'hidden_2'] , specified_biases = [1, 1] , learning_rate = 0.5
+Average loss per epoch: 2.3030537261225046
+Accuracy: 0.0982
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_1', 'hidden_2'] , specified_biases = [1, 0] , learning_rate = 0.5
+Average loss per epoch: 2.303333263918109
+Accuracy: 0.1547
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_1', 'hidden_2'] , specified_biases = [0, 1] , learning_rate = 0.5
+Average loss per epoch: 2.3027765204819035
+Accuracy: 0.1032
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_1', 'hidden_2'] , specified_biases = [0, 0] , learning_rate = 0.5
+Average loss per epoch: 2.3030365565603947
+Accuracy: 0.121
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = None , specified_biases = [1, 1] , learning_rate = 0.75
+Average loss per epoch: 2.3028095781056086
+Accuracy: 0.1009
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = None , specified_biases = [1, 0] , learning_rate = 0.75
+Average loss per epoch: 2.303291615962914
+Accuracy: 0.101
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = None , specified_biases = [0, 1] , learning_rate = 0.75
+Average loss per epoch: 2.3031959311151504
+Accuracy: 0.101
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = None , specified_biases = [0, 0] , learning_rate = 0.75
+Average loss per epoch: 2.303015954933166
+Accuracy: 0.1009
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_1'] , specified_biases = [1, 1] , learning_rate = 0.75
+Average loss per epoch: 2.303011451596021
+Accuracy: 0.101
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_1'] , specified_biases = [1, 0] , learning_rate = 0.75
+Average loss per epoch: 2.302907770501648
+Accuracy: 0.1028
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_1'] , specified_biases = [0, 1] , learning_rate = 0.75
+Average loss per epoch: 2.302966947631836
+Accuracy: 0.1028
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_1'] , specified_biases = [0, 0] , learning_rate = 0.75
+Average loss per epoch: 2.302996157987304
+Accuracy: 0.101
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_2'] , specified_biases = [1, 1] , learning_rate = 0.75
+Average loss per epoch: 2.3029819591791383
+Accuracy: 0.1028
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_2'] , specified_biases = [1, 0] , learning_rate = 0.75
+Average loss per epoch: 2.3029793182735645
+Accuracy: 0.101
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_2'] , specified_biases = [0, 1] , learning_rate = 0.75
+Average loss per epoch: 2.303239974677181
+Accuracy: 0.101
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_2'] , specified_biases = [0, 0] , learning_rate = 0.75
+Average loss per epoch: 2.302953881810904
+Accuracy: 0.1028
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_1', 'hidden_2'] , specified_biases = [1, 1] , learning_rate = 0.75
+Average loss per epoch: 2.303245132065614
+Accuracy: 0.1028
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_1', 'hidden_2'] , specified_biases = [1, 0] , learning_rate = 0.75
+Average loss per epoch: 2.302989689904054
+Accuracy: 0.101
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_1', 'hidden_2'] , specified_biases = [0, 1] , learning_rate = 0.75
+Average loss per epoch: 2.3031252229200647
+Accuracy: 0.101
+Model Parameters: hidden_1_output_size = 392 , hidden_2_output_size = 196 , specified_weights = ['hidden_1', 'hidden_2'] , specified_biases = [0, 0] , learning_rate = 0.75
+Average loss per epoch: 2.302956905367573
+Accuracy: 0.101
