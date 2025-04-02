@@ -1,4 +1,7 @@
-# ML-Project
+# ML-Project: Classifying MNIST Datasets
+
+
+
 
 The final_project.ipynb is a jupyter notebook which contains all code portions of our application project. 
 It is organized using markdown headings which should make it easy to identify what code is where.
